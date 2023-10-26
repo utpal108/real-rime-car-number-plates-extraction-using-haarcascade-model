@@ -7,3 +7,9 @@
 - To exist from the webcam, just press `q`
 - All of the number plate images will be saved on car_number_plate_images folder
 - All of the car plate numbers will be saved on car_number.txt file
+
+## Examples
+
+![example](examples/example.png)
+
+![example2](examples/example2.png)
