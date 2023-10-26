@@ -1,4 +1,4 @@
-# Real time car number plates extraction using haarcascade model
+# Real time car number plates extraction using haar cascade model
 - Create a virtual environment, e.g.: `python3.10 -m venv venv`
 - Activate the virtual environment, e.g.: `source venv/bin/activate`
 - Install required libraries `pip install -r requirements.txt`
