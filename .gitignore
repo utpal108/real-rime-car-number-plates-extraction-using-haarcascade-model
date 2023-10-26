@@ -162,4 +162,4 @@ cython_debug/
 # Vscove
 .vscode/
 
-car_number_plate_images/*
+# car_number_plate_images/*
